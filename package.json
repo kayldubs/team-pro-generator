@@ -1,0 +1,22 @@
+{
+  "name": "team-pro-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayldubs/team-pro-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayldubs/team-pro-generator/issues"
+  },
+  "homepage": "https://github.com/kayldubs/team-pro-generator#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
