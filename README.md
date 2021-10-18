@@ -10,7 +10,10 @@
 - if the user want to keep track of employees, their information, and positions then they will input this information following the command line prompts to get a sheet with all of the information consolidated. 
 
 
-https://user-images.githubusercontent.com/86741633/137666284-3bce072f-3d24-4d0e-8413-3c97f7790d98.mov
+
+https://user-images.githubusercontent.com/86741633/137667218-0f159a4b-d6df-4579-b0b2-87f69bfab8c5.mov
+
+
 
 # license 
 - public 
